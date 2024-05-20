@@ -1,3 +1,3 @@
 # BayBalance AI
 
-![image](https://github.com/CarstonB02/Final-Portfolio-Submission/assets/166553377/ff323a62-3a5b-4b05-944f-2ecfbf4f7105)
+![image](https://github.com/CarstonB02/Final-Portfolio-Submission/assets/166553377/4d71bebc-a0c8-45d6-8ec3-3829ab4d3fee)
